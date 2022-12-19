@@ -1,0 +1,4 @@
+Nama: Khafit Badrus Zaman
+Umur: 22 Tahun
+Stack: Backend
+Bahasa Pemrograman: Javascript, PHP
